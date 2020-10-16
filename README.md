@@ -1,4 +1,5 @@
-### Hello World! I'm Rawnak! Welcome to my profile! 👋🏽
+![Banner](https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif)
+### I'm Rawnak! Welcome to my profile! 👋🏽
 
 - 👸🏽 Pronouns: she/her/hers
 - 📚 I’m currently a student @ Columbia Engineering, The Fu Foundation School of Engineering and Applied Science.
