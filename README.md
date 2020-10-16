@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello World! I'm Rawnak! Welcome to my profile! 👋🏽
 
-<!--
-**RawnakMahjabib/RawnakMahjabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👸🏽 Pronouns: she/her/hers
+- 📚 I’m currently a student @ Columbia Engineering, The Fu Foundation School of Engineering and Applied Science.
+- 🌱 I’m currently learning Python programming, machine learning algorithms, Ethereum, Blockchain, financial libraries and more.
+- 💰 I enjoy investing and trading in the stock, commodities, and FX market.
+<img src='https://thumbs.gfycat.com/BitterSinfulChinesecrocodilelizard-size_restricted.gif' width='40%' height='100px;' align='right'/>
 
-Here are some ideas to get you started:
+- 🎓 I have a BA in International Criminal Justice and Economics.
+- 👩🏽‍🏫 Previously, I was a NYC Public School Math teacher.
+- ⚡ Random fun fact: A pizza that has radius "z" and height "a" has volume Pi × z × z × a.
+- 💬 Ask me about K-dramas, places to eat, skincare, and beauty products. 
+<img src='https://media4.giphy.com/media/dAKo7JMzOGnOpXC7WY/giphy-preview.gif' width='40%' height='100px;' align='right'/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
+
+- 📫 How to reach me: You can e-mail me at rawnakmahjabib@gmail.com
