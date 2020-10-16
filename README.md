@@ -4,7 +4,7 @@
 
 - 👸🏽 Pronouns: she/her/hers
 - 📚 I’m currently a student @ Columbia Engineering, The Fu Foundation School of Engineering and Applied Science.
-- 🌱 I’m currently learning Python programming, machine learning algorithms, Ethereum, Blockchain, financial libraries and more.
+- 🌱 I’m currently learning Python programming, machine learning algorithms, Blockchain, financial libraries and more.
 - 💰 I enjoy investing and trading in the stock, commodities, and FX market.
 <img src='https://thumbs.gfycat.com/BitterSinfulChinesecrocodilelizard-size_restricted.gif' width='40%' height='100px;' align='right'/>
 
