@@ -1,4 +1,5 @@
-![Banner](https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif)
+<img src='https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif' width='104%' height='155px;' align='center'/>
+
 ### I'm Rawnak! Welcome to my profile! 👋🏽
 
 - 👸🏽 Pronouns: she/her/hers
