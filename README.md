@@ -10,7 +10,7 @@
 
 - 🎓 I have a BA in International Criminal Justice and Economics.
 - 👩🏽‍🏫 I have experience teaching in Manhattan and Brooklyn as a NYC Public School Math teacher 
-- ⚡ Random fun fact: A pizza that has radius "z" and height "a" has volume Pi × z × z × a.
+
 - 💬 Ask me about K-dramas, places to eat, skincare, and beauty products. 
 <img src='https://media4.giphy.com/media/dAKo7JMzOGnOpXC7WY/giphy-preview.gif' width='40%' height='100px;' align='right'/>
 
