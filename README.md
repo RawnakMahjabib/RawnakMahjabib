@@ -2,7 +2,7 @@
 
 ### I'm Rawnak! Welcome to my profile! 👋🏽
 
-- 👸🏽 Pronouns: she/her/hers
+
 - 📚 I’m currently a student @ Columbia Engineering, The Fu Foundation School of Engineering and Applied Science.
 - 🌱 I’m currently learning data science, Python programming, machine learning algorithms, financial libraries and more.
 - 💰 I enjoy investing and trading in the stock, commodities, and FX market.
