@@ -5,8 +5,7 @@
 
 - 💻 I'm a FinTech Software Engineer and Data Analyst, based in NYC. 
 - 🌱 I’m currently learning data science, Python programming, machine learning algorithms, financial libraries and more.
-- 💰 I enjoy investing and trading in the stock, commodities, and FX market.
-<img src='https://thumbs.gfycat.com/BitterSinfulChinesecrocodilelizard-size_restricted.gif' width='40%' height='100px;' align='right'/>
+- 💰 I enjoy investing and trading in the stock, commodities, and FX market. <img src='https://thumbs.gfycat.com/BitterSinfulChinesecrocodilelizard-size_restricted.gif' width='40%' height='100px;' align='right'/>
 - 🎓 I graduated from Columbia University Engineering's FinTech program and have a BA in International Criminal Justice and Economics.
 - 👩🏽‍🏫 I have experience teaching in Manhattan and Brooklyn as a NYC Public School Math teacher 
 
