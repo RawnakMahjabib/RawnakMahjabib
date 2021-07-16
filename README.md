@@ -12,6 +12,8 @@
 - 💬 Ask me about K-dramas, places to eat, skincare, and beauty products. 
 <img src='https://media4.giphy.com/media/dAKo7JMzOGnOpXC7WY/giphy-preview.gif' width='40%' height='100px;' align='right'/>
 
+- 🎵 Currently listening to on [Spotify](https://open.spotify.com/playlist/5Lr5XpUca92PYiO5kHtoAs?si=Fhz4RXpcSluFcGtaN7xX3Q)
+
 - 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
 
 - 📫 How to reach me: You can e-mail me at rawnakmahjabib@gmail.com
