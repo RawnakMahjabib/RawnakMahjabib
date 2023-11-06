@@ -3,7 +3,7 @@
 ### I'm Rawnak! Welcome to my profile! 👋🏽 Feel free to visit my [Website](https://rawnakmahjabib.github.io/AboutMe/) 💻
 
 
-- 💻 I'm a FinTech Software Engineer and Data Analyst, based in NYC. 
+- 💻 I'm a Product and Quality Assurance Analyst, based in NYC. 
 - 🌱 I enjoy solving problems, making things and sharing my knowledge with others.
 - 🎓 I graduated from Columbia University Engineering's FinTech program and have a BA in International Criminal Justice and Economics.
 - 👩🏽‍🏫 I have experience teaching in Manhattan and Brooklyn as a NYC Public School Math teacher 
